@@ -76,4 +76,4 @@ $ docker-compose -f ./hack/docker-compose/docker-compose.yaml up
 
 ## 文档
 
-- 请参照 [Wiki](https://360yun.org/wayne/)
+- 请参照 [Wiki](https://360yun.org/wayne/)百科
