@@ -75,4 +75,4 @@ With the above command, you can access the local Wayne from http://127.0.0.1:420
 
 ## Document
 
-- Refer [Wiki](https://360yun.org/wayne/)
+- Refer [Wiki](https://360yun.org/wayne/) thank you 
